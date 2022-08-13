@@ -1,2 +1,2 @@
 # Random-Quote 
-## Click on the author nam's to make a request on google aboute it
+## Click on the author nam's to make a request on google about it

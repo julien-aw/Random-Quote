@@ -7,8 +7,8 @@
 body {
   text-align: center;
   font-family: "Original Surfer", cursive;
-  background: #4f322f;
-  color: white;
+  background: #f5f4f4;
+  color: rgb(0, 0, 0);
 }
 p {
   font-size: larger;
@@ -21,7 +21,6 @@ h1 {
   width: 500px;
   margin: auto;
   padding: 40px;
-  border: 4px solid;
   margin-top: 20px;
 }
 .main p {
@@ -36,15 +35,9 @@ hr {
   background-color: #ccbfbe;
   border-color: #ccbfbe;
 }
-button {
-  width: 60px;
-  height: 40px;
-  margin-bottom: 10px;
-  border-radius: 10px;
-  border: #4f322f;
-}
-button:hover {
-  background: #8a504c;
-  cursor: pointer;
-  border: none;
+
+.social{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
